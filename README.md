@@ -3,8 +3,8 @@ Pure shell prompts that catch your eyes!
 
 1. check your shell:
    `echo $SHELL`
-   if returns /bash, then your shell is bash.
-   if returns /zsh, you’re in zshell.
+   if returns .../bash, then your shell is bash.
+   if returns .../zsh, you’re in zshell.
 
 3. Open your shell config file:
    `nano ~/.bashrc` or `~/.zsh`

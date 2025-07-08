@@ -18,7 +18,7 @@ so, in bash, you simply add this line:
 6. after adding, `ctrl+x` & y to *save&&exit*, or if you just want to save without exit, `ctrl+o` & y.
 
 ⚠️ :CAUTION: ⚠️
-=> [DO N0T FORGET to COMMENT UP the old prompt]
+=> DO N0T FORGET to COMMENT UP the old prompt
 
 then run:
     `source ~/.bashrc` or `~/.zsh` according to your shell.

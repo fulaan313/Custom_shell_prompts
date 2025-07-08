@@ -15,7 +15,10 @@ often in zhell, it seems a bit overwhelmed cus of the complicated script as we k
 so, in bash, you simply add this line:
     `export <desired_prompt_u_copied>`
 
-6. after adding, `ctrl+x` & y to save&&exit, or if you just want to save without exit, `ctrl+o` & y.
+6. after adding, `ctrl+x` & y to *save&&exit*, or if you just want to save without exit, `ctrl+o` & y.
+
+⚠️ CAUTION ⚠️
+[DO N0T FORGET to COMMENT UP the old prompt]
 
 then run:
     `source ~/.bashrc` or `~/.zsh` according to your shell.
